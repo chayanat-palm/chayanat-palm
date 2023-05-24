@@ -1,6 +1,37 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi there, I'm!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?text=Hi&nbsp;there,&nbsp;I'm&nbsp;Palm!🕹️&animation=fadeIn&type=waving&color=timeAuto)
+
+```yaml
+name: Chayanat Lertwittayawiwat
+located_in: Thailand
+education: Bachelor's degree in Accountancy
+
+field_of_interests:
+  [
+    "Data Engineer",
+    "Data Analyst",
+    "Database",
+    "SQL"
+  ]
+
+hobbies: ["Music", "Gaming", "Books"]
+```
+
+
+<hr class="solid">
+### Connect with Me
+<p></p>
+<a href="https://www.linkedin.com/in/chayanatlertwit/">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"/>
+</a>
+
+
+
+
+
+
+
+
+
 
 
 
