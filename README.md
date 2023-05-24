@@ -17,7 +17,7 @@ field_of_interests:
 hobbies: ["Music", "Gaming", "Books"]
 ```
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayanat-palm)](https://github.com/chayanat-palm/github-readme-stats)
 
 ## Connect with Me
 <p></p>
