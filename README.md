@@ -1,10 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi there, I'm!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 
 <!--
 **chayanat-palm/chayanat-palm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there I'm Palm! ☕
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
